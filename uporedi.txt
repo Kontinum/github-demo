@@ -1,1 +1,5 @@
 Prvi dodat i commitovan
+
+Drugi dodat i bicu u stage area
+
+Treci ddoat  ibicu u radnom direktorijumu
